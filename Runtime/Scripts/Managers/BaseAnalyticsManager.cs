@@ -1,9 +1,5 @@
 using UnityEngine;
 
-#if GRAMOFON_HOMA
-using HomaGames.HomaBelly;
-#endif
-
 namespace GRAMOFON
 {
     public class BaseAnalyticsManager : BaseManager
@@ -28,13 +24,6 @@ namespace GRAMOFON
         /// <param name="e"></param>
         protected virtual void OnLevelStart(LevelStartEvent e)
         {
-            #if GRAMOFON_HOMA
-
-            DefaultAnalytics.GameplayStarted();
-            DefaultAnalytics.LevelStarted(e.Id);
-            
-            #endif
-            
             Debug.Log($"Level Started. ID : {e.Id}");
         }
         
@@ -44,12 +33,6 @@ namespace GRAMOFON
         /// <param name="e"></param>
         protected virtual void OnLevelDone(LevelDoneEvent e)
         {
-            #if GRAMOFON_HOMA
-
-            DefaultAnalytics.LevelCompleted();
-
-            #endif
-            
             Debug.Log($"Level Done. ID : {e.Id}");
         }
         
@@ -59,12 +42,6 @@ namespace GRAMOFON
         /// <param name="e"></param>
         protected virtual void OnLevelFailed(LevelFailedEvent e)
         {
-            #if GRAMOFON_HOMA
-            
-            DefaultAnalytics.LevelFailed();
-
-            #endif
-            
             Debug.Log($"Level Failed. ID : {e.Id}");
         }
     
