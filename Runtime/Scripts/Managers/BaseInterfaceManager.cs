@@ -24,9 +24,6 @@ namespace GRAMOFON
         [SerializeField] private CanvasGroup m_commonCanvasGroup;
         [SerializeField] private CanvasGroup m_settingsCanvasGroup;
 
-        [Header("Prefabs")] 
-        [SerializeField] private RectTransform m_currencyPrefab;
-        
         #endregion
 
         /// <summary>
@@ -73,7 +70,7 @@ namespace GRAMOFON
             Vector3 screenPosition = GramofonUtils.WorldToCanvasPosition(m_canvas, targetCamera, worldPosition);
             Vector3 targetScreenPosition = m_canvas.InverseTransformPoint(m_currencySlot.position);
                 
-            RectTransform createdCurrency = Instantiate(m_currencyPrefab, m_canvas);
+            RectTransform createdCurrency = Instantiate(GramofonSDK.BaseGameSettings.FlyCurrencyPrefab, m_canvas);
             createdCurrency.anchoredPosition = screenPosition;
             
             Sequence sequence = DOTween.Sequence();
@@ -99,7 +96,7 @@ namespace GRAMOFON
         {
             Vector3 targetScreenPosition = m_canvas.InverseTransformPoint(m_currencySlot.position);
                 
-            RectTransform createdCurrency = Instantiate(m_currencyPrefab, m_canvas);
+            RectTransform createdCurrency = Instantiate(GramofonSDK.BaseGameSettings.FlyCurrencyPrefab, m_canvas);
             createdCurrency.position = screenPosition;
             
             Sequence sequence = DOTween.Sequence();

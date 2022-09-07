@@ -1,7 +1,7 @@
 {
   "name": "com.gramofon.sdk",
   "displayName": "Gramofon SDK",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "unity": "2021.3",
   "keywords": [
     "debug",
@@ -18,7 +18,6 @@
   "description": "Powered by Gramofon Games.",
   "dependencies": {
     "com.unity.cinemachine": "2.8.6",
-    "com.unity.render-pipelines.universal": "12.1.6",
     "com.unity.mobile.notifications": "2.0.1"
   }
 }

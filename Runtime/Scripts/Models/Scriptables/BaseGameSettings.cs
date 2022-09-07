@@ -10,6 +10,9 @@ namespace GRAMOFON
         public float BootstrapDelay;
         public float FlyCurrencyDuration;
 
+        [Header("Prefabs")] 
+        public RectTransform FlyCurrencyPrefab;
+        
         [Header("Datas")]
         [ContextMenuItem("Update","FindLevels")]
         public BaseLevel[] Levels;
