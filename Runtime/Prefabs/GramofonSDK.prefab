@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9152197553616191396
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9152197553616191394}
+  - component: {fileID: 9152197553616191395}
+  - component: {fileID: 5859125135564657840}
+  - component: {fileID: 8705880674550159214}
+  - component: {fileID: 2934914506017667522}
+  - component: {fileID: 8463797490402533470}
+  m_Layer: 0
+  m_Name: GramofonSDK
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9152197553616191394
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9152197553616191396}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9152197553616191395
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9152197553616191396}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22cd9f6d7556c47dca9342b352de2bd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_isPersistant: 1
+  BootstrapManagerScript:
+    GuidAssignmentFailed: 0
+    GUID: 011c7beb572be4a97bc58576761ca517
+    _typeNameAndAssembly: GRAMOFON.BaseBootstrapManager, GramofonSDK
+    _suppressLogs: 0
+  SoundManagerScript:
+    GuidAssignmentFailed: 0
+    GUID: 508131e709cde4702919d9df8183388e
+    _typeNameAndAssembly: GRAMOFON.BaseSoundManager, GramofonSDK
+    _suppressLogs: 0
+  AnalyticsManagerScript:
+    GuidAssignmentFailed: 0
+    GUID: c16278a6c23fe4433b2a89b5144f7682
+    _typeNameAndAssembly: GRAMOFON.BaseAnalyticsManager, GramofonSDK
+    _suppressLogs: 0
+  NotificationManagerScript:
+    GuidAssignmentFailed: 0
+    GUID: 405df3fd8a08b4e84a5803798787a595
+    _typeNameAndAssembly: GRAMOFON.BaseNotificationManager, GramofonSDK
+    _suppressLogs: 0
+--- !u!114 &5859125135564657840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9152197553616191396}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 011c7beb572be4a97bc58576761ca517, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_initializationType: 0
+--- !u!114 &8705880674550159214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9152197553616191396}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 508131e709cde4702919d9df8183388e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_initializationType: 0
+--- !u!114 &2934914506017667522
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9152197553616191396}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c16278a6c23fe4433b2a89b5144f7682, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_initializationType: 0
+--- !u!114 &8463797490402533470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9152197553616191396}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 405df3fd8a08b4e84a5803798787a595, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_initializationType: 0

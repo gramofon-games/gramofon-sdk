@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: b1b6a2e0db5de4f98b2144667c4631b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1909195641850690931
+    second: LogoEffect_02_alpha_0
+  - first:
+      213: -1634152907443550590
+    second: LogoEffect_02_alpha_1
+  - first:
+      213: -6254592417278578357
+    second: LogoEffect_02_alpha_2
+  - first:
+      213: 7798939131736347416
+    second: LogoEffect_02_alpha_3
+  - first:
+      213: 8279276508898305770
+    second: LogoEffect_02_alpha_4
+  - first:
+      213: -7933571515319835201
+    second: LogoEffect_02_alpha_5
+  - first:
+      213: 1204139929928807437
+    second: LogoEffect_02_alpha_6
+  - first:
+      213: -7881906294413642302
+    second: LogoEffect_02_alpha_7
+  - first:
+      213: 1219574578912530724
+    second: LogoEffect_02_alpha_8
+  - first:
+      213: -5031867530158590219
+    second: LogoEffect_02_alpha_9
+  - first:
+      213: -3277614748995975116
+    second: LogoEffect_02_alpha_10
+  - first:
+      213: 8124754023022527115
+    second: LogoEffect_02_alpha_11
+  - first:
+      213: 1272878113951760415
+    second: LogoEffect_02_alpha_12
+  - first:
+      213: 1521493390247064108
+    second: LogoEffect_02_alpha_13
+  - first:
+      213: -3028366139810600167
+    second: LogoEffect_02_alpha_14
+  - first:
+      213: 3164514603700951113
+    second: LogoEffect_02_alpha_15
+  - first:
+      213: 3881594551020944687
+    second: LogoEffect_02_alpha_16
+  - first:
+      213: -2949828015227511554
+    second: LogoEffect_02_alpha_17
+  - first:
+      213: 4882053947257599041
+    second: LogoEffect_02_alpha_18
+  - first:
+      213: -5465128976620177165
+    second: LogoEffect_02_alpha_19
+  - first:
+      213: -1308291131634206196
+    second: LogoEffect_02_alpha_20
+  - first:
+      213: -3575080808272919358
+    second: LogoEffect_02_alpha_21
+  - first:
+      213: -7864557210050442188
+    second: LogoEffect_02_alpha_22
+  - first:
+      213: -936882773667732410
+    second: LogoEffect_02_alpha_23
+  - first:
+      213: -4128548994088365907
+    second: LogoEffect_02_alpha_24
+  - first:
+      213: 2464009670069368993
+    second: LogoEffect_02_alpha_25
+  - first:
+      213: 5563453816099462827
+    second: LogoEffect_02_alpha_26
+  - first:
+      213: -363715771398655730
+    second: LogoEffect_02_alpha_27
+  - first:
+      213: 247235430225402602
+    second: LogoEffect_02_alpha_28
+  - first:
+      213: 2518795968029507953
+    second: LogoEffect_02_alpha_29
+  - first:
+      213: 8612277452273084229
+    second: LogoEffect_02_alpha_30
+  - first:
+      213: 1913646974536478401
+    second: LogoEffect_02_alpha_31
+  - first:
+      213: -4193048473155290163
+    second: LogoEffect_02_alpha_32
+  - first:
+      213: -2993039043538351644
+    second: LogoEffect_02_alpha_33
+  - first:
+      213: -1937112819638779544
+    second: LogoEffect_02_alpha_34
+  - first:
+      213: -824877721400059397
+    second: LogoEffect_02_alpha_35
+  - first:
+      213: -812605325151338443
+    second: LogoEffect_02_alpha_36
+  - first:
+      213: -6751891490143576364
+    second: LogoEffect_02_alpha_37
+  - first:
+      213: 1484865086205323483
+    second: LogoEffect_02_alpha_38
+  - first:
+      213: 4035232138262656950
+    second: LogoEffect_02_alpha_39
+  - first:
+      213: -7224426999011170006
+    second: LogoEffect_02_alpha_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_0
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2700
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dfb372253de7a10800000000000000
+      internalID: 1909195641850690931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_1
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2700
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286c72bb6925259e0800000000000000
+      internalID: -1634152907443550590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_2
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2700
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b413241b5593339a0800000000000000
+      internalID: -6254592417278578357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_3
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2700
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813d90cd1d56b3c60800000000000000
+      internalID: 7798939131736347416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_4
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2700
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6ae1e8e16e5e270800000000000000
+      internalID: 8279276508898305770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_5
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2700
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5243d9dba46e190800000000000000
+      internalID: -7933571515319835201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2250
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04354fe2e6f5b010800000000000000
+      internalID: 1204139929928807437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_7
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2250
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c53f804cf7dd9290800000000000000
+      internalID: -7881906294413642302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2250
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4219d213e9ccce010800000000000000
+      internalID: 1219574578912530724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_9
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2250
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6331c24273b2ab0800000000000000
+      internalID: -5031867530158590219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_10
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2250
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438838750c29382d0800000000000000
+      internalID: -3277614748995975116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_11
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2250
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b820fa5bcbce0c070800000000000000
+      internalID: 8124754023022527115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_12
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2250
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10c67096eb2aa110800000000000000
+      internalID: 1272878113951760415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22f7cd5d2e6d1510800000000000000
+      internalID: 1521493390247064108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_14
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1800
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ba4c27a0519f5d0800000000000000
+      internalID: -3028366139810600167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_15
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1800
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9489128044d9aeb20800000000000000
+      internalID: 3164514603700951113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_16
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1800
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2df1b7bda13ed530800000000000000
+      internalID: 3881594551020944687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_17
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1800
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc5edb8c0b1017d0800000000000000
+      internalID: -2949828015227511554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_18
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1800
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1443594e23a80c340800000000000000
+      internalID: 4882053947257599041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_19
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1800
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f83cd8b626f724b0800000000000000
+      internalID: -5465128976620177165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a362cb52408dde0800000000000000
+      internalID: -1308291131634206196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_21
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1350
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4839b42f2c26ec0800000000000000
+      internalID: -3575080808272919358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_22
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1350
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cc43bb2ea7bd290800000000000000
+      internalID: -7864557210050442188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_23
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1350
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6442a57c4168ff2f0800000000000000
+      internalID: -936882773667732410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_24
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1350
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da01199509274b6c0800000000000000
+      internalID: -4128548994088365907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_25
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1350
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8bc937dbbe13220800000000000000
+      internalID: 2464009670069368993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae56e0f4cb553d40800000000000000
+      internalID: 5563453816099462827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_27
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 900
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e017396de62d3faf0800000000000000
+      internalID: -363715771398655730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_28
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 900
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aead97a505b5e6300800000000000000
+      internalID: 247235430225402602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_29
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 900
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171c518769f84f220800000000000000
+      internalID: 2518795968029507953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_30
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 900
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547e7d986b4f48770800000000000000
+      internalID: 8612277452273084229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_31
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 900
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce6fbec8c3ae8a10800000000000000
+      internalID: 1913646974536478401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_32
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 900
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbb59f11ac4fc5c0800000000000000
+      internalID: -4193048473155290163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9850309d69676d0800000000000000
+      internalID: -2993039043538351644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_34
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 450
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861439f572efd15e0800000000000000
+      internalID: -1937112819638779544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_35
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 450
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9d0d035127d84f0800000000000000
+      internalID: -824877721400059397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_36
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 450
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53083cb13cb09b4f0800000000000000
+      internalID: -812605325151338443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_37
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 450
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de520876767c42a0800000000000000
+      internalID: -6751891490143576364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_38
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 450
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8e5a2cdec4b9410800000000000000
+      internalID: 1484865086205323483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_39
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 450
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7b26b0046000830800000000000000
+      internalID: 4035232138262656950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoEffect_02_alpha_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 540
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29a23acbedadbb90800000000000000
+      internalID: -7224426999011170006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LogoEffect_02_alpha_27: -363715771398655730
+      LogoEffect_02_alpha_18: 4882053947257599041
+      LogoEffect_02_alpha_9: -5031867530158590219
+      LogoEffect_02_alpha_14: -3028366139810600167
+      LogoEffect_02_alpha_11: 8124754023022527115
+      LogoEffect_02_alpha_30: 8612277452273084229
+      LogoEffect_02_alpha_7: -7881906294413642302
+      LogoEffect_02_alpha_16: 3881594551020944687
+      LogoEffect_02_alpha_20: -1308291131634206196
+      LogoEffect_02_alpha_1: -1634152907443550590
+      LogoEffect_02_alpha_21: -3575080808272919358
+      LogoEffect_02_alpha_29: 2518795968029507953
+      LogoEffect_02_alpha_17: -2949828015227511554
+      LogoEffect_02_alpha_2: -6254592417278578357
+      LogoEffect_02_alpha_19: -5465128976620177165
+      LogoEffect_02_alpha_24: -4128548994088365907
+      LogoEffect_02_alpha_34: -1937112819638779544
+      LogoEffect_02_alpha_36: -812605325151338443
+      LogoEffect_02_alpha_23: -936882773667732410
+      LogoEffect_02_alpha_33: -2993039043538351644
+      LogoEffect_02_alpha_39: 4035232138262656950
+      LogoEffect_02_alpha_3: 7798939131736347416
+      LogoEffect_02_alpha_0: 1909195641850690931
+      LogoEffect_02_alpha_26: 5563453816099462827
+      LogoEffect_02_alpha_31: 1913646974536478401
+      LogoEffect_02_alpha_8: 1219574578912530724
+      LogoEffect_02_alpha_32: -4193048473155290163
+      LogoEffect_02_alpha_38: 1484865086205323483
+      LogoEffect_02_alpha_40: -7224426999011170006
+      LogoEffect_02_alpha_5: -7933571515319835201
+      LogoEffect_02_alpha_22: -7864557210050442188
+      LogoEffect_02_alpha_15: 3164514603700951113
+      LogoEffect_02_alpha_10: -3277614748995975116
+      LogoEffect_02_alpha_35: -824877721400059397
+      LogoEffect_02_alpha_4: 8279276508898305770
+      LogoEffect_02_alpha_13: 1521493390247064108
+      LogoEffect_02_alpha_12: 1272878113951760415
+      LogoEffect_02_alpha_28: 247235430225402602
+      LogoEffect_02_alpha_37: -6751891490143576364
+      LogoEffect_02_alpha_6: 1204139929928807437
+      LogoEffect_02_alpha_25: 2464009670069368993
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

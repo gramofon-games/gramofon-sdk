@@ -1,0 +1,16 @@
+{
+    "name": "GramofonSDK.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f12c9e49663c541c5a5e10761eb93997"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

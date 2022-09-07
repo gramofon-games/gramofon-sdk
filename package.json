@@ -1,0 +1,32 @@
+{
+  "name": "com.gramofon.sdk",
+  "displayName": "Gramofon SDK",
+  "version": "0.0.1",
+  "unity": "2021.3",
+  "keywords": [
+    "debug",
+    "runtime",
+    "console",
+    "tweak",
+    "hacks"
+  ],
+  "type": "template",
+  "author": {
+    "name": "Gramofon Games",
+    "url": "https://gramofon.games"
+  },
+  "samples": [
+    {
+      "displayName": "Template",
+      "description": "",
+      "path": "Samples/GRAMOFON",
+      "interactiveImport": true
+    }
+  ],
+  "description": "Powered by Gramofon Games.",
+  "dependencies": {
+    "com.unity.cinemachine": "2.8.6",
+    "com.unity.render-pipelines.universal": "12.1.6",
+    "com.unity.mobile.notifications": "2.0.1"
+  }
+}
