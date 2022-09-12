@@ -1,10 +1,12 @@
 using System;
 using System.Linq;
 using UnityEngine;
+using GRAMOFON.Misc;
+using GRAMOFON.Models;
 using System.Threading.Tasks;
 using UnityEngine.SceneManagement;
 
-namespace GRAMOFON
+namespace GRAMOFON.Services
 {
     public static class LevelService
     {

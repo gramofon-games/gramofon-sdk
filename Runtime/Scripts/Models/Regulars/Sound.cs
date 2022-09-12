@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace GRAMOFON
+namespace GRAMOFON.Models
 {
     [Serializable]
     public class Sound

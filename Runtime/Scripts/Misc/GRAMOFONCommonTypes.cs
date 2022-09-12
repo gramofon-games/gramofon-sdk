@@ -1,7 +1,7 @@
 using UnityEngine;
 using DG.Tweening;
 
-namespace GRAMOFON
+namespace GRAMOFON.Misc
 {
     public static class GRAMOFONCommonTypes
     {

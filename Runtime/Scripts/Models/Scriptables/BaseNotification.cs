@@ -21,7 +21,7 @@ using Unity.Notifications.Android;
 
 using UnityEngine;
 
-namespace GRAMOFON
+namespace GRAMOFON.Models
 {
     [CreateAssetMenu(menuName = "GRAMOFON/Notification", fileName = "Notification", order = 2)]
     public class BaseNotification : BaseScriptableObject

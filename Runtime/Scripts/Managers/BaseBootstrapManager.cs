@@ -1,9 +1,11 @@
 using System;
 using UnityEngine;
+using GRAMOFON.Misc;
 using System.Threading;
+using GRAMOFON.Services;
 using Cysharp.Threading.Tasks;
 
-namespace GRAMOFON
+namespace GRAMOFON.Managers
 {
     public class BaseBootstrapManager : BaseManager
     {

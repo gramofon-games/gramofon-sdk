@@ -1,6 +1,7 @@
 using UnityEngine;
+using GRAMOFON.Models;
 
-namespace GRAMOFON
+namespace GRAMOFON.Managers
 {
     public class BaseThemeManager : BaseManager
     {

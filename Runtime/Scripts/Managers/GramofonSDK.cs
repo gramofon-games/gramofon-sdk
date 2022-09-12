@@ -1,5 +1,7 @@
-using GRAMOFON;
 using UnityEngine;
+using GRAMOFON.Misc;
+using GRAMOFON.Models;
+using GRAMOFON.Managers;
 using UnityEngine.SceneManagement;
 
 public class GramofonSDK : Singleton<GramofonSDK>

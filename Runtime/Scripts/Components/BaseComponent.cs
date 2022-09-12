@@ -1,7 +1,8 @@
 using System;
 using UnityEngine;
+using GRAMOFON.Enums;
 
-namespace GRAMOFON
+namespace GRAMOFON.Components
 {
     public class BaseComponent : MonoBehaviour
     {

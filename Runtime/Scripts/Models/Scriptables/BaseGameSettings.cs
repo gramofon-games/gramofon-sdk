@@ -1,7 +1,8 @@
 using UnityEngine;
+using GRAMOFON.Misc;
 using System.Collections.Generic;
 
-namespace GRAMOFON
+namespace GRAMOFON.Models
 {
     [CreateAssetMenu(menuName = "GRAMOFON/Default/GameSettings", fileName = "GameSettings", order = 0)]
     public class BaseGameSettings : BaseScriptableObject

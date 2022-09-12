@@ -1,4 +1,4 @@
-namespace GRAMOFON
+namespace GRAMOFON.Enums
 {
     public enum EInitializationType
     {

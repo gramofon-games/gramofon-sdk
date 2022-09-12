@@ -1,7 +1,7 @@
 using UnityEngine;
 using Cinemachine;
 
-namespace GRAMOFON
+namespace GRAMOFON.Managers
 {
     public class BaseCameraManager : BaseManager
     {

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace GRAMOFON
+namespace GRAMOFON.Services
 {
     public static class DataService
     {

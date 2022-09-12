@@ -1,6 +1,11 @@
 using UnityEngine;
+using GRAMOFON.Misc;
+using GRAMOFON.Enums;
+using GRAMOFON.Models;
+using GRAMOFON.Services;
+using GRAMOFON.Components;
 
-namespace GRAMOFON
+namespace GRAMOFON.Managers
 {
     public class BaseGameManager : BaseManager
     {

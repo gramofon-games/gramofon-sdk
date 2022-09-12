@@ -1,8 +1,9 @@
 using UnityEngine;
+using GRAMOFON.Misc;
 using UnityEngine.UI;
 using MoreMountains.NiceVibrations;
 
-namespace GRAMOFON
+namespace GRAMOFON.Extensions
 {
     public class BaseEButton : Button
     {

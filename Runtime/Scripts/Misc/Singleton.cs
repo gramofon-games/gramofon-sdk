@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace GRAMOFON
+namespace GRAMOFON.Misc
 {
     public abstract class Singleton<T> : MonoBehaviour where T : Component
     {

@@ -1,3 +1,5 @@
+using GRAMOFON.Models;
+
 #region IOS
 
 #if UNITY_IOS
@@ -17,7 +19,7 @@ using Unity.Notifications.Android;
 
 #endregion
 
-namespace GRAMOFON
+namespace GRAMOFON.Managers
 {
     public class BaseNotificationManager : BaseManager
     {

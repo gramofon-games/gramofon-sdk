@@ -1,4 +1,6 @@
-namespace GRAMOFON
+using GRAMOFON.Misc;
+
+namespace GRAMOFON.Models
 {
     public class Player : BaseModel
     {

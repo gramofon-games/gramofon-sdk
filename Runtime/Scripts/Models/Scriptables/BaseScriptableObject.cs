@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace GRAMOFON
+namespace GRAMOFON.Models
 {
     public class BaseScriptableObject : ScriptableObject { }
 }

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace GRAMOFON
+namespace GRAMOFON.Managers
 {
     public class BaseTouchManager : BaseManager
     {

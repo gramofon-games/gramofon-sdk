@@ -1,4 +1,4 @@
-namespace GRAMOFON
+namespace GRAMOFON.Services
 {
     public class UnLoadLevelEvent : BaseEvent
     {

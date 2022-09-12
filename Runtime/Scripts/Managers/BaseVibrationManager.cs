@@ -1,7 +1,9 @@
 using UnityEngine;
+using GRAMOFON.Misc;
+using GRAMOFON.Services;
 using MoreMountains.NiceVibrations;
 
-namespace GRAMOFON
+namespace GRAMOFON.Managers
 {
     public class BaseVibrationManager : BaseManager
     {

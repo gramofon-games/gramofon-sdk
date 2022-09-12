@@ -1,8 +1,12 @@
 using System.Linq;
 using UnityEngine;
+using GRAMOFON.Misc;
+using GRAMOFON.Enums;
+using GRAMOFON.Models;
+using GRAMOFON.Services;
 using Random = UnityEngine.Random;
 
-namespace GRAMOFON
+namespace GRAMOFON.Managers
 {
     public class BaseSoundManager : BaseManager
     {

@@ -1,6 +1,7 @@
 using UnityEngine;
+using GRAMOFON.Services;
 
-namespace GRAMOFON
+namespace GRAMOFON.Managers
 {
     public class BaseAnalyticsManager : BaseManager
     {

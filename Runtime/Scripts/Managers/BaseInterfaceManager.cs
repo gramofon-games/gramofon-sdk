@@ -1,10 +1,13 @@
 using TMPro;
 using System;
-using DG.Tweening;
 using UnityEngine;
+using DG.Tweening;
+using GRAMOFON.Misc;
+using GRAMOFON.Enums;
+using GRAMOFON.Services;
 using MoreMountains.NiceVibrations;
 
-namespace GRAMOFON
+namespace GRAMOFON.Managers
 {
     public class BaseInterfaceManager : BaseManager
     {

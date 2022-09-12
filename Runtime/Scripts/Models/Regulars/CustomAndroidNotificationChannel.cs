@@ -3,7 +3,7 @@
 using System;
 using Unity.Notifications.Android;
 
-namespace GRAMOFON
+namespace GRAMOFON.Models
 {
     [Serializable]
     public class CustomAndroidNotificationChannel : BaseModel

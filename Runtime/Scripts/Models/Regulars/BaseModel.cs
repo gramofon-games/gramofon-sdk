@@ -1,6 +1,7 @@
 using System;
+using GRAMOFON.Services;
 
-namespace GRAMOFON
+namespace GRAMOFON.Models
 {
     [Serializable]
     public class BaseModel

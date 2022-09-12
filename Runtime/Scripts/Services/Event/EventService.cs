@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace GRAMOFON
+namespace GRAMOFON.Services
 {
     public static class EventService
     {
