@@ -2,6 +2,7 @@ using UnityEngine;
 using GRAMOFON.Misc;
 using GRAMOFON.Models;
 using GRAMOFON.Managers;
+using GRAMOFON.Services;
 using UnityEngine.SceneManagement;
 
 public class GramofonSDK : Singleton<GramofonSDK>
@@ -31,6 +32,9 @@ public class GramofonSDK : Singleton<GramofonSDK>
         SceneManager.sceneLoaded += OnSceneLoaded;
 
         BaseGameSettings = Resources.Load<BaseGameSettings>(GRAMOFONCommonTypes.RESOURCES_GAME_SETTINGS_PATH);
+
+        if (BaseGameSettings == null)
+            ErrorService.DispatchError("Game Settings is null. Please check Resources folder.", true);
         
         BootstrapManager = gameObject.GetComponent<BaseBootstrapManager>();
         SoundManager =  gameObject.GetComponent<BaseSoundManager>();

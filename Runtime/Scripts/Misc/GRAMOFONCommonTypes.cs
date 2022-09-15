@@ -1,5 +1,7 @@
 using UnityEngine;
 using DG.Tweening;
+using UnityEngine.EventSystems;
+using System.Collections.Generic;
 
 namespace GRAMOFON.Misc
 {
@@ -8,8 +10,6 @@ namespace GRAMOFON.Misc
         //GENERICS
         public static int DEFAULT_FPS = 60;
         public static int DEFAULT_THREAD_SLEEP_MS = 100;
-        
-        //INTERFACES
         
         //SOUNDS
         public static string SFX_CLICK = "CLICK";
@@ -64,6 +64,30 @@ namespace GRAMOFON.Misc
             tempPosition.y -= canvas.sizeDelta.y * canvas.pivot.y;
 
             return tempPosition;
+        }
+        
+        public static bool IsScreenPositionOnUI(Vector2 screenPosition)
+        {
+            bool isFound = false;
+            
+            PointerEventData pointerEventData = new PointerEventData(EventSystem.current);
+            pointerEventData.position = screenPosition;
+            
+            List<RaycastResult> results = new List<RaycastResult>();
+            EventSystem.current.RaycastAll(pointerEventData, results);
+
+            foreach (RaycastResult raycastResult in results)
+            {
+                GameObject targetGameObject = raycastResult.gameObject;
+                
+                if(targetGameObject == null)
+                    continue;
+
+                isFound = true;
+                break;
+            }
+            
+            return isFound;
         }
 
         public static T Cast<T>(this object data) where T : new()
