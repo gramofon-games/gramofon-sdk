@@ -1,7 +1,7 @@
 {
   "name": "com.gramofon.sdk",
   "displayName": "Gramofon SDK",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "unity": "2020.3",
   "keywords": [
     "debug",
